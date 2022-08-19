@@ -1,15 +1,12 @@
 <img alt="banner" src="img/banner.png" width="100%">
 
-<h1 align="center" >  HELLO ! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>  </h1>
-<p align='center'>
-</p>
+<h1 align="center" >  Hi, I am Naman! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>  </h1>
 
-<p>
+<p align="right">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Web+Developer.;I'm+a+Computer+Science+Engineer." /></a>
 </p>
 
--   👋 Hi, I’m Naman
--   💻 I'm a Web Developer
+-   📃 Currently learning: Node.js
 -   📔 Currently pursuing B.Tech in Computer Science Engineering from <a href="https://msit.in/"    target="_blank"> Maharaja Surajmal Institute of Technology, Janakpuri </a>
 -   👯 I’m looking to collaborate on Frontend projects.
 
