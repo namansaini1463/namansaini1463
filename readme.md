@@ -31,7 +31,7 @@
 </p>
 
 <h2>SOCIALS:</h2>
-<a href="https://www.linkedin.com/in/naman-saini-6084ba229/" target="_blank">
+<a href="https://www.linkedin.com/in/namansaini1463/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a href="https://stackoverflow.com/users/14521796/naman-saini" target="_blank">
